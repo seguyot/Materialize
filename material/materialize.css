@@ -1,0 +1,126 @@
+#home {
+    background:  url(img/cover.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+.nav-wrapper{
+   margin: 10px;
+}
+.button1{
+    background-color:rgb(226, 226, 23);
+    border-radius: 8px;
+    border:1px solid rgb(49, 47, 47);
+    color: rgb(49, 47, 47);
+    
+}
+.iphone{
+    width:25vw;
+    height:auto;
+}
+.android{
+    width:15vw;
+    height:auto;
+}
+.ios{
+    width:15vw;
+    height:auto;
+}
+h1{
+    color: white;
+}
+p{
+    color: white;   
+}
+#black{
+    background-color: black;
+}
+.iphoneside{
+    width:20vw;
+    height:auto;
+}
+
+.button2{
+    border-radius: 8px;
+    border:1px solid rgb(226, 226, 23) ;
+    color:rgb(226, 226, 23);
+    background-color:transparent; 
+}
+.ipadsize{
+    width:30vw;
+    height:auto;
+}
+.featuressize{
+    width:30vw;
+    height:auto;
+   
+}
+.title{
+    text-align: center;
+}
+.fyell{
+    color: rgb(226, 226, 23);
+    text-align: right;
+    font-size: 25px;
+}
+.fyell2{
+    color: rgb(226, 226, 23);
+    text-align: left;
+    font-size: 25px;
+    
+}
+.font{
+    font-size: 15px;
+    text-align: left;
+}
+.font1{
+    font-size: 15px;
+    text-align: right;
+}
+.line{
+    text-decoration-line: rgb(226, 226, 23);
+}
+hr {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(226, 226, 23);
+}
+h6{
+    color: rgb(224, 220, 220);
+    text-align: center;
+} 
+h4{
+    color: rgb(245, 241, 241);
+    text-align: center;
+}
+.center{
+    text-align: center;
+}
+.app{
+    margin-bottom: 0;
+}
+#bckyellow{
+    background-color: rgb(226, 226, 23);
+}
+.download{
+    color: rgb(49, 47, 47);
+    font-size: 35px;   
+}
+.android2{
+    width:15vw;
+    height:auto;
+}
+.ios2{
+    width:15vw;
+    height:auto;
+}
+#lightblack{
+    background-color: rgb(42, 40, 40);
+}
+.icon{
+    margin-top: 40px;
+    width:3vw;
+    height:auto;
+    margin-left: 0.4rem;
+}
